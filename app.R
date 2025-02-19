@@ -30,7 +30,7 @@ sce_pseudo <-
 
 iSEE(
     sce_pseudo,
-    appTitle = "spatialDLPFC, Visium, Sp09, pseudo-bulked",
+    appTitle = "spatialDLPFC, Visium, Sp09, pseudo-bulked, small repo",
     initial = initial,
     colormap = ExperimentColorMap(colData = list(
         BayesSpace = function(n) {
